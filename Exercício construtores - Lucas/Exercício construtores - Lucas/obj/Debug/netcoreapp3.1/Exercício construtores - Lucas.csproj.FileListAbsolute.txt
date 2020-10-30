@@ -1,0 +1,13 @@
+C:\Users\manut\Desktop\Lucas faculdade\Exercício construtores - Lucas\Exercício construtores - Lucas\bin\Debug\netcoreapp3.1\Exercício construtores - Lucas.exe
+C:\Users\manut\Desktop\Lucas faculdade\Exercício construtores - Lucas\Exercício construtores - Lucas\bin\Debug\netcoreapp3.1\Exercício construtores - Lucas.deps.json
+C:\Users\manut\Desktop\Lucas faculdade\Exercício construtores - Lucas\Exercício construtores - Lucas\bin\Debug\netcoreapp3.1\Exercício construtores - Lucas.runtimeconfig.json
+C:\Users\manut\Desktop\Lucas faculdade\Exercício construtores - Lucas\Exercício construtores - Lucas\bin\Debug\netcoreapp3.1\Exercício construtores - Lucas.runtimeconfig.dev.json
+C:\Users\manut\Desktop\Lucas faculdade\Exercício construtores - Lucas\Exercício construtores - Lucas\bin\Debug\netcoreapp3.1\Exercício construtores - Lucas.dll
+C:\Users\manut\Desktop\Lucas faculdade\Exercício construtores - Lucas\Exercício construtores - Lucas\bin\Debug\netcoreapp3.1\Exercício construtores - Lucas.pdb
+C:\Users\manut\Desktop\Lucas faculdade\Exercício construtores - Lucas\Exercício construtores - Lucas\obj\Debug\netcoreapp3.1\Exercício construtores - Lucas.csprojAssemblyReference.cache
+C:\Users\manut\Desktop\Lucas faculdade\Exercício construtores - Lucas\Exercício construtores - Lucas\obj\Debug\netcoreapp3.1\Exercício construtores - Lucas.AssemblyInfoInputs.cache
+C:\Users\manut\Desktop\Lucas faculdade\Exercício construtores - Lucas\Exercício construtores - Lucas\obj\Debug\netcoreapp3.1\Exercício construtores - Lucas.AssemblyInfo.cs
+C:\Users\manut\Desktop\Lucas faculdade\Exercício construtores - Lucas\Exercício construtores - Lucas\obj\Debug\netcoreapp3.1\Exercício construtores - Lucas.csproj.CoreCompileInputs.cache
+C:\Users\manut\Desktop\Lucas faculdade\Exercício construtores - Lucas\Exercício construtores - Lucas\obj\Debug\netcoreapp3.1\Exercício construtores - Lucas.dll
+C:\Users\manut\Desktop\Lucas faculdade\Exercício construtores - Lucas\Exercício construtores - Lucas\obj\Debug\netcoreapp3.1\Exercício construtores - Lucas.pdb
+C:\Users\manut\Desktop\Lucas faculdade\Exercício construtores - Lucas\Exercício construtores - Lucas\obj\Debug\netcoreapp3.1\Exercício construtores - Lucas.genruntimeconfig.cache
